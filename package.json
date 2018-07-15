@@ -1,0 +1,20 @@
+{
+  "name": "currencybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.6.15",
+    "lodash": "^4.17.10",
+    "winston": "^3.0.0"
+  }
+}
