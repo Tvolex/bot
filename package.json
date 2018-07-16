@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "debug": "node $NODE_DEBUG_OPTION src/index.js"
   },
   "repository": {
     "type": "git",
